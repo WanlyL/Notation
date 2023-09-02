@@ -1,0 +1,15 @@
+/Users/wanlyleger/Projects/firstproject/firstproject/bin/Debug/net7.0/firstproject
+/Users/wanlyleger/Projects/firstproject/firstproject/bin/Debug/net7.0/firstproject.deps.json
+/Users/wanlyleger/Projects/firstproject/firstproject/bin/Debug/net7.0/firstproject.runtimeconfig.json
+/Users/wanlyleger/Projects/firstproject/firstproject/bin/Debug/net7.0/firstproject.dll
+/Users/wanlyleger/Projects/firstproject/firstproject/bin/Debug/net7.0/firstproject.pdb
+/Users/wanlyleger/Projects/firstproject/firstproject/obj/Debug/net7.0/firstproject.csproj.AssemblyReference.cache
+/Users/wanlyleger/Projects/firstproject/firstproject/obj/Debug/net7.0/firstproject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wanlyleger/Projects/firstproject/firstproject/obj/Debug/net7.0/firstproject.AssemblyInfoInputs.cache
+/Users/wanlyleger/Projects/firstproject/firstproject/obj/Debug/net7.0/firstproject.AssemblyInfo.cs
+/Users/wanlyleger/Projects/firstproject/firstproject/obj/Debug/net7.0/firstproject.csproj.CoreCompileInputs.cache
+/Users/wanlyleger/Projects/firstproject/firstproject/obj/Debug/net7.0/firstproject.dll
+/Users/wanlyleger/Projects/firstproject/firstproject/obj/Debug/net7.0/refint/firstproject.dll
+/Users/wanlyleger/Projects/firstproject/firstproject/obj/Debug/net7.0/firstproject.pdb
+/Users/wanlyleger/Projects/firstproject/firstproject/obj/Debug/net7.0/firstproject.genruntimeconfig.cache
+/Users/wanlyleger/Projects/firstproject/firstproject/obj/Debug/net7.0/ref/firstproject.dll
