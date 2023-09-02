@@ -47,6 +47,6 @@ function hasOddNumber(arr){
   //find user by UserName 
   function findUserByUsername(usersArray, username) {
     return usersArray.find(function(user){
-      return user.username === username;
     })
+    console.log("Hello");
   }
